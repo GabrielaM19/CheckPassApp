@@ -4,3 +4,4 @@ Javascript application for checking the password strength based on its length an
 
 Screenshot of running application :
 
+![](checkPassAppScreenshot.PNG)
